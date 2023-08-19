@@ -1,8 +1,5 @@
 import Express  from "express";
 
-
-
-
 //     /static/vscode_windows.exe
 // app.use("/static", express.static(path.join(__dirname, 'static')))
 
